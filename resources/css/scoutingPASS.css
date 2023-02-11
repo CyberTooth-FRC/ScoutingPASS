@@ -13,7 +13,7 @@ html, body{
     padding: 0;
     color: white;
     background-color: black;
-    overscroll-behavior-y: none;
+    overscroll-behavior: none;
 }
 
 #prematch_table, #postmatch_table {
