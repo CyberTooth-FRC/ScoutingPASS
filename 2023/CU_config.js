@@ -1,7 +1,7 @@
 var config_data = `
 {
-  "title": "Scouting PASS 2023 EDITED",
-  "page_title": "Charged Up",
+  "title": "Scouting PASS 2023",
+  "page_title": "Charged Up EDITED",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter Initials",
