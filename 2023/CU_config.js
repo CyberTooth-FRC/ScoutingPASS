@@ -71,7 +71,7 @@ var config_data = `
       "dimensions": "9 4",
       "clickRestriction": "onePerBox",
       "toggleClick": "true",
-      "showFlip": "true",
+      "showFlip": "false",
       "showUndo": "false",
       "shape": "circle 12 black red true"
     },
