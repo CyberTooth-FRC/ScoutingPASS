@@ -63,7 +63,7 @@ var config_data = `
       "shape": "circle 5 black red true"
     }
   ],
-  "auton": [
+  "auto": [
     { "name": "Auto Scoring",
       "code": "asg",
       "type": "clickable_image",
