@@ -63,7 +63,7 @@ var config_data = `
       "shape": "circle 5 black red true"
     }
   ],
-  "auto": [
+  "auton": [
     { "name": "Auto Scoring",
       "code": "asg",
       "type": "clickable_image",
@@ -221,10 +221,6 @@ var config_data = `
     },
     { "name": "Tippy<br>(almost tipped over)",
       "code": "tip",
-      "type": "bool"
-    },
-    { "name": "Dropped Cones (>2)",
-      "code": "dc",
       "type": "bool"
     },
     { "name": "Make good<br>alliance partner?",
