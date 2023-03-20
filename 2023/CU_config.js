@@ -41,11 +41,11 @@ var config_data = `
       "type": "robot",
       "choices": {
         "r1": "Red-1",
-        "b1": "Blue-1<br>",
+        "b3": "Blue-3<br>",
         "r2": "Red-2",
         "b2": "Blue-2<br>",
         "r3": "Red-3",
-        "b3": "Blue-3"
+        "b1": "Blue-1"
       },
       "required":"true"
     },
