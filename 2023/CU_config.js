@@ -14,7 +14,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2023ingre",
+      "defaultValue": "2023incmp",
       "required": "true",
       "disabled": "true"
     },
